@@ -4,6 +4,11 @@
     "require": {
       "php": "~5.5.0|~5.6.0|~7.0.0|~7.0.2|~7.0.4|~7.1.0|~7.2.0|~7.4.0"
     },
+    "keywords": [
+        "magento2",
+        "copyright",
+        "magento2-extension"
+    ],
     "type": "magento2-module",
     "version": "2.4.3-p1",
     "license": [
